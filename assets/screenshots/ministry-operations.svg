@@ -1,0 +1,50 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DivineDesk ministry operations screenshot</title>
+  <desc id="desc">A portfolio screenshot-style ministry operations view with events, check-in, groups, and reporting status.</desc>
+  <rect width="1440" height="960" fill="#F7F8F6"/>
+  <rect x="58" y="50" width="1324" height="860" rx="18" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="112" y="124" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">Ministry Operations</text>
+  <text x="112" y="160" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="18">Plan events, manage groups, track check-in, and keep leaders aligned.</text>
+
+  <rect x="112" y="220" width="560" height="300" rx="12" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="144" y="270" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Upcoming Events</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="144" y="306" width="496" height="62" rx="8" fill="#F3FAF8"/>
+    <text x="168" y="344" fill="#172026" font-size="18" font-weight="800">Sunday Worship</text>
+    <text x="512" y="344" fill="#19584D" font-size="16" font-weight="800">738 expected</text>
+    <rect x="144" y="386" width="496" height="62" rx="8" fill="#FFFBED"/>
+    <text x="168" y="424" fill="#172026" font-size="18" font-weight="800">Youth Ministry Night</text>
+    <text x="512" y="424" fill="#8A620F" font-size="16" font-weight="800">142 registered</text>
+    <rect x="144" y="466" width="496" height="62" rx="8" fill="#F4F7FB"/>
+    <text x="168" y="504" fill="#172026" font-size="18" font-weight="800">Volunteer Training</text>
+    <text x="512" y="504" fill="#315F8A" font-size="16" font-weight="800">31 leaders</text>
+  </g>
+
+  <rect x="708" y="220" width="572" height="300" rx="12" fill="#172026"/>
+  <text x="744" y="272" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Check-In Readiness</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="744" y="340" fill="#BFD3D7" font-size="17">Kiosk status</text>
+    <text x="1112" y="340" fill="#FFFFFF" font-size="17" font-weight="800">Online</text>
+    <line x1="744" y1="366" x2="1244" y2="366" stroke="#31534E"/>
+    <text x="744" y="414" fill="#BFD3D7" font-size="17">Volunteer roles</text>
+    <text x="1112" y="414" fill="#FFFFFF" font-size="17" font-weight="800">18 filled</text>
+    <line x1="744" y1="440" x2="1244" y2="440" stroke="#31534E"/>
+    <text x="744" y="488" fill="#BFD3D7" font-size="17">Child labels</text>
+    <text x="1112" y="488" fill="#FFFFFF" font-size="17" font-weight="800">Ready</text>
+  </g>
+
+  <rect x="112" y="566" width="360" height="230" rx="12" fill="#F3FAF8" stroke="#C9DDD8"/>
+  <text x="144" y="618" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Groups</text>
+  <text x="144" y="684" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">42</text>
+  <text x="144" y="722" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">active ministries and classes</text>
+
+  <rect x="506" y="566" width="360" height="230" rx="12" fill="#FFFBED" stroke="#E8D8A5"/>
+  <text x="538" y="618" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Reports</text>
+  <text x="538" y="684" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">16</text>
+  <text x="538" y="722" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">scheduled exports and statements</text>
+
+  <rect x="900" y="566" width="380" height="230" rx="12" fill="#F4F7FB" stroke="#CCD8E6"/>
+  <text x="932" y="618" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Communications</text>
+  <text x="932" y="684" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">9.6k</text>
+  <text x="932" y="722" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">reachable member contacts</text>
+</svg>

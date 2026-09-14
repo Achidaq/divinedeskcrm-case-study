@@ -1,0 +1,63 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DivineDesk people directory screenshot</title>
+  <desc id="desc">A portfolio screenshot-style people directory with search, filters, family cards, and status badges.</desc>
+  <rect width="1440" height="960" fill="#F7F8F6"/>
+  <rect x="60" y="52" width="1320" height="856" rx="18" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="112" y="124" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">People And Families</text>
+  <text x="112" y="160" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="18">Search households, members, groups, and pastoral care context.</text>
+  <rect x="1016" y="96" width="264" height="52" rx="8" fill="#2F7D6D"/>
+  <text x="1060" y="129" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Add Person</text>
+
+  <rect x="112" y="210" width="820" height="58" rx="8" fill="#F7F8F6" stroke="#D8E1E5"/>
+  <text x="140" y="246" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">Search by name, phone, family, group, or address</text>
+  <rect x="956" y="210" width="160" height="58" rx="8" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="1000" y="246" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">Active</text>
+  <rect x="1132" y="210" width="148" height="58" rx="8" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="1172" y="246" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">Groups</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="112" y="312" width="376" height="178" rx="12" fill="#F3FAF8" stroke="#C9DDD8"/>
+    <circle cx="160" cy="366" r="28" fill="#2F7D6D"/>
+    <text x="150" y="376" fill="#FFFFFF" font-size="22" font-weight="800">B</text>
+    <text x="210" y="360" fill="#172026" font-size="22" font-weight="800">Baker Household</text>
+    <text x="210" y="388" fill="#65727A" font-size="16">4 members, 2 ministry groups</text>
+    <text x="140" y="444" fill="#172026" font-size="17" font-weight="700">Andrew Baker</text>
+    <text x="140" y="470" fill="#65727A" font-size="15">Small Group Leader</text>
+
+    <rect x="532" y="312" width="376" height="178" rx="12" fill="#FFFFFF" stroke="#D8E1E5"/>
+    <circle cx="580" cy="366" r="28" fill="#C79A33"/>
+    <text x="570" y="376" fill="#FFFFFF" font-size="22" font-weight="800">H</text>
+    <text x="630" y="360" fill="#172026" font-size="22" font-weight="800">Hernandez Family</text>
+    <text x="630" y="388" fill="#65727A" font-size="16">5 members, follow-up due</text>
+    <text x="560" y="444" fill="#172026" font-size="17" font-weight="700">Mary Hernandez</text>
+    <text x="560" y="470" fill="#65727A" font-size="15">Children's Ministry</text>
+
+    <rect x="952" y="312" width="328" height="178" rx="12" fill="#FFFFFF" stroke="#D8E1E5"/>
+    <text x="984" y="362" fill="#172026" font-size="22" font-weight="800">Directory Health</text>
+    <text x="984" y="408" fill="#65727A" font-size="16">Profiles completed</text>
+    <rect x="984" y="430" width="236" height="12" rx="6" fill="#E7ECEF"/>
+    <rect x="984" y="430" width="184" height="12" rx="6" fill="#2F7D6D"/>
+    <text x="984" y="476" fill="#172026" font-size="18" font-weight="800">78%</text>
+  </g>
+
+  <rect x="112" y="536" width="1168" height="270" rx="12" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="144" y="586" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Recent People Updates</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="16">
+    <text x="148" y="642" fill="#65727A" font-weight="800">Name</text>
+    <text x="440" y="642" fill="#65727A" font-weight="800">Family</text>
+    <text x="690" y="642" fill="#65727A" font-weight="800">Group</text>
+    <text x="970" y="642" fill="#65727A" font-weight="800">Status</text>
+    <line x1="144" y1="664" x2="1248" y2="664" stroke="#D8E1E5"/>
+    <text x="148" y="706" fill="#172026" font-weight="700">Ashley Baker</text>
+    <text x="440" y="706" fill="#65727A">Baker Household</text>
+    <text x="690" y="706" fill="#65727A">Worship Team</text>
+    <rect x="970" y="682" width="92" height="34" rx="17" fill="#E2F1ED"/>
+    <text x="994" y="705" fill="#19584D" font-weight="800">Active</text>
+    <line x1="144" y1="730" x2="1248" y2="730" stroke="#EEF2F3"/>
+    <text x="148" y="772" fill="#172026" font-weight="700">Daniel Rivera</text>
+    <text x="440" y="772" fill="#65727A">Rivera Family</text>
+    <text x="690" y="772" fill="#65727A">New Members</text>
+    <rect x="970" y="748" width="118" height="34" rx="17" fill="#FFF2C8"/>
+    <text x="994" y="771" fill="#8A620F" font-weight="800">Follow up</text>
+  </g>
+</svg>

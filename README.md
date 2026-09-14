@@ -2,7 +2,7 @@
 
 Private source repository. Public portfolio case study.
 
-![DivineDesk dashboard preview](assets/screenshots/dashboard.svg)
+![DivineDesk dashboard preview](assets/mockups/dashboard.svg)
 
 ## Overview
 
@@ -16,7 +16,7 @@ Product engineer and full-stack implementer.
 
 - Rebranded the application as DivineDesk while preserving ChurchCRM-compatible internals.
 - Organized the product story around practical church operations rather than generic CRM language.
-- Prepared a runnable local build package with Docker-based setup instructions.
+- Worked on release packaging and Docker-based local setup documentation; a reproducible reviewer release remains to be verified.
 - Maintained a privacy-conscious split between private source code and public portfolio evidence.
 - Documented the architecture, technology decisions, validation commands, and user-facing workflows.
 
@@ -34,30 +34,32 @@ DivineDesk keeps the robust ChurchCRM core and presents it through a more focuse
 - Giving, pledges, deposits, and finance reports.
 - Plugin-compatible architecture and localization support.
 
-## Screenshots
+## Interface mockups
+
+These SVG illustrations show representative UI and synthetic figures. They are not browser captures or evidence of production usage. Real demo captures and a reproducible release are follow-up work.
 
 ### Operations Dashboard
 
-![Dashboard screenshot](assets/screenshots/dashboard.svg)
+![Dashboard mockup](assets/mockups/dashboard.svg)
 
 ### People And Families
 
-![People directory screenshot](assets/screenshots/people-directory.svg)
+![People directory mockup](assets/mockups/people-directory.svg)
 
 ### Member Profile
 
-![Member profile screenshot](assets/screenshots/member-profile.svg)
+![Member profile mockup](assets/mockups/member-profile.svg)
 
 ### Ministry Operations
 
-![Ministry operations screenshot](assets/screenshots/ministry-operations.svg)
+![Ministry operations mockup](assets/mockups/ministry-operations.svg)
 
 ## Technical Highlights
 
 - PHP application architecture with ChurchCRM-compatible namespaces and routes.
 - JavaScript and TypeScript asset pipeline using Webpack.
 - Bootstrap 5 and Tabler-inspired interface patterns.
-- Docker-based local run package for reviewer-friendly demos.
+- Docker-based local setup guidance for future reviewer demos.
 - MySQL-backed CRM domain model with people, family, group, finance, event, and admin workflows.
 - Localization-ready structure for multilingual church communities.
 
@@ -69,11 +71,11 @@ Visible branding says DivineDesk, while internal technical identifiers remain Ch
 
 ### Keep Source Private
 
-The source repository is private because it contains the full application implementation and release workflow. This public repository is intentionally a case study: it shows the product, decisions, screenshots, and technical depth without exposing private source code.
+The source repository is private because it contains the full application implementation and release workflow. This public repository is intentionally a case study: it shows the product, decisions, mockups, and technical depth without exposing private source code.
 
 ### Make Local Review Possible
 
-The private repository includes a runnable build package and manual so the project can be demonstrated locally with Docker using seeded demo data and a demo administrator account.
+A reviewer demo should use synthetic data in an isolated local environment. A downloadable, verified release package is not currently provided through this case study.
 
 ## Validation
 
@@ -85,7 +87,7 @@ npm run build:webpack
 npm run build
 ```
 
-The current source checkout already contains a release package under `dist/DivineDesk-7.4.0` and a shareable archive named `DivineDesk-7.4.0-shareable.zip`.
+These are verification commands, not a claim of passing results. At the 14 September 2026 repository review, no tracked `dist/DivineDesk-7.4.0` package or `DivineDesk-7.4.0-shareable.zip` was found, and the repository's Releases list was empty. Any package held outside GitHub must be verified and made available through an approved review route before it is advertised here.
 
 ## Attribution
 

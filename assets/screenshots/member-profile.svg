@@ -1,0 +1,52 @@
+<svg width="1440" height="960" viewBox="0 0 1440 960" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DivineDesk member profile screenshot</title>
+  <desc id="desc">A portfolio screenshot-style member profile with family context, care notes, giving, and attendance timeline.</desc>
+  <rect width="1440" height="960" fill="#F7F8F6"/>
+  <rect x="64" y="54" width="1312" height="852" rx="18" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <circle cx="154" cy="154" r="54" fill="#2F7D6D"/>
+  <text x="131" y="170" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">AB</text>
+  <text x="236" y="138" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">Andrew Baker</text>
+  <text x="236" y="176" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="18">Member since 2018. Small Group Leader. Baker Household.</text>
+  <rect x="1058" y="118" width="196" height="52" rx="8" fill="#2F7D6D"/>
+  <text x="1100" y="151" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Record Note</text>
+
+  <rect x="112" y="252" width="360" height="238" rx="12" fill="#F3FAF8" stroke="#C9DDD8"/>
+  <text x="144" y="304" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Family Context</text>
+  <text x="144" y="352" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">Spouse: Ashley Baker</text>
+  <text x="144" y="386" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">Children: 2</text>
+  <text x="144" y="420" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">Address verified</text>
+  <text x="144" y="454" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">Preferred contact: SMS</text>
+
+  <rect x="504" y="252" width="360" height="238" rx="12" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="536" y="304" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Attendance</text>
+  <text x="536" y="364" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800">88%</text>
+  <text x="536" y="402" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">last 12 Sundays</text>
+  <rect x="536" y="432" width="270" height="14" rx="7" fill="#E7ECEF"/>
+  <rect x="536" y="432" width="238" height="14" rx="7" fill="#2F7D6D"/>
+
+  <rect x="896" y="252" width="360" height="238" rx="12" fill="#FFFBED" stroke="#E8D8A5"/>
+  <text x="928" y="304" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Giving Summary</text>
+  <text x="928" y="364" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800">$3,420</text>
+  <text x="928" y="402" fill="#65727A" font-family="Inter, Arial, sans-serif" font-size="17">year to date, receipted</text>
+  <text x="928" y="454" fill="#8A620F" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Statement ready</text>
+
+  <rect x="112" y="532" width="566" height="280" rx="12" fill="#FFFFFF" stroke="#D8E1E5"/>
+  <text x="144" y="584" fill="#172026" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Care Timeline</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <circle cx="156" cy="636" r="8" fill="#2F7D6D"/>
+    <text x="184" y="642" fill="#172026" font-size="17" font-weight="800">Pastoral check-in completed</text>
+    <text x="184" y="668" fill="#65727A" font-size="15">Shared prayer request with care team.</text>
+    <circle cx="156" cy="714" r="8" fill="#C79A33"/>
+    <text x="184" y="720" fill="#172026" font-size="17" font-weight="800">Volunteer role confirmed</text>
+    <text x="184" y="746" fill="#65727A" font-size="15">Serving this Sunday in welcome team.</text>
+  </g>
+
+  <rect x="710" y="532" width="546" height="280" rx="12" fill="#172026"/>
+  <text x="744" y="584" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Connected Workflows</text>
+  <g fill="#BFD3D7" font-family="Inter, Arial, sans-serif" font-size="17">
+    <text x="744" y="636">Household record</text>
+    <text x="744" y="684">Attendance history</text>
+    <text x="744" y="732">Giving reports</text>
+    <text x="744" y="780">Care notes and follow-ups</text>
+  </g>
+</svg>
